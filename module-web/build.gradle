@@ -1,0 +1,15 @@
+//bootRepackage {
+//    mainClass = 'com.coway.web.AppBootApplication'
+//}
+
+
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+dependencies {
+
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+
+
+
+}

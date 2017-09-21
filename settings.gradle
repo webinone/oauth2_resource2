@@ -1,0 +1,5 @@
+rootProject.name = 'coway-framework'
+include 'module-shared'
+include 'module-biz'
+include 'module-web'
+
